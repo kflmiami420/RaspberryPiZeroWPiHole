@@ -16,3 +16,14 @@ One to show the PiHole stats and one to show system stats
 
 * in a terminal type the following.                type this ---->    curl -sSL https://install.pi-hole.net | bash
 
+
+ To install the library for the Pi OLED, enter the following into the terminal:
+
+
+* sudo pip3 install adafruit-circuitpython-ssd1306
+
+* sudo apt-get install python3-pip
+
+* sudo apt-get install python3-pil
+
+* sudo pip3 install requests
