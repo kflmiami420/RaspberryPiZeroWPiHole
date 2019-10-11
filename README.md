@@ -14,5 +14,5 @@ One to show the PiHole stats and one to show system stats
 
 * Time to install Pi hole
 
-* in a terminal type the following.       curl -sSL https://install.pi-hole.net | bash
+* in a terminal type the following.                type this ---->.   *    curl -sSL https://install.pi-hole.net | bash
 
