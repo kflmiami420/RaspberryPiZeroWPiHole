@@ -12,3 +12,7 @@ One to show the PiHole stats and one to show system stats
 * If you are running Windows on your computer, install Bonjour support so you can use .local names, you'll need to reboot Windows after     installation
 * You can then ssh into raspberrypi.local
 
+* Time to install Pi hole
+
+* in a terminal type the following.       curl -sSL https://install.pi-hole.net | bash
+
