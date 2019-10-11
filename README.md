@@ -29,7 +29,7 @@ One to show the PiHole stats and one to show system stats
 * sudo pip3 install requests
 
 
-* next you need a font installed 
+Next you need a font installed 
 
 *cd ~
 *wget http://kottke.org/plus/type/silkscreen/download/silkscreen.zip
